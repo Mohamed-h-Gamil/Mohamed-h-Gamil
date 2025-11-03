@@ -8,13 +8,6 @@ I am a highly motivated and academically successful Computer Science and Enginee
 
 ### 🚀 Highlights & Key Stats
 
-| Status | Details |
-| :--- | :--- |
-| **Academic Standing** | CGPA **3.97** (Top of Class) |
-| **Current Focus** | Vision-Language Models (VLMs) and Cultural Awareness Research (Microsoft Mentorship) |
-| **Competitive Edge** | Ranked **16th** in the 2023 ICPC ECPC Qualifications |
-| **Upcoming** | EJEP Scholarship to study at **Ritsumeikan University, Japan** (Spring 2025) |
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-h-Gamil&show_icons=true&theme=buefy&count_private=true" alt="Mohamed Gamil's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-h-Gamil&theme=buefy" alt="GitHub Streak" />
@@ -37,7 +30,7 @@ My expertise centers around the full Machine Learning lifecycle, from data prepr
   <br>
 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fastapi Badge"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge"/>
 
@@ -46,7 +39,7 @@ My expertise centers around the full Machine Learning lifecycle, from data prepr
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=huggingface&logoColor=white" alt="Huggingface Badge"/>
 </p>
 
 ---
